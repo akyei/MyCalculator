@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="complexOperators">#C66A70</color>
+    <color name="operands">#9DA3A4</color>
+    <color name="simpleOperators">#D496A7</color>
+    <color name="simpleOperatorsDown">#8f6571</color>
+    <color name="constants">#CEB5A7</color>
+    <color name="background">#E0F2E9</color>
+</resources>
